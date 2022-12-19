@@ -13,4 +13,14 @@ Kaggle - https://www.kaggle.com/datasets/fernandol/countries-of-the-world
 Data.World - https://data.world/ndsouza/alcohol-v-life-expectancy
 
 
+# Questions 
+
+1.	Which countries have the highest GDP?
+2.	Which countries have the lowest GDP?
+3.	Which countries have the greatest Life Expectancy?
+4.	Does a countries GDP have an impact on a countries life expectancy?
+
+# Analysis
+
+The analysis of the data was recorded in the final project report which can be found above.
 
